@@ -24,7 +24,7 @@ Follow these steps to install Readdit for your browser:
 
 ### Firefox Version
 
-1. Open Firefox → `about:debugging`.
+1. Open Firefox → `about:debugging#/runtime/this-firefox`.
 2. Click **Load Temporary Add-on**.
 3. Select the `manifest.json` file in the `readdit-firefox` folder.
 4. Click the toolbar icon to enable/disable reader mode.
@@ -38,5 +38,5 @@ This project is licensed under the **MIT License**.
 If you have feedback, suggestions, or complaints, you can reach me through:
 
 - **Email:** [sameer4uofficial@gmail.com](mailto:sameer4uofficial@gmail.com)
-- **Blog:** [https://samrza.github.io/samblog/](https://yourbloglink.com)
-- **X (Twitter) Profile:** [https://x.com/samrza](https://x.com/yourusername)
+- **Blog:** [https://samrza.github.io/samblog/](https://samrza.github.io/samblog)
+- **X (Twitter) Profile:** [https://x.com/samrza](https://x.com/samrza)
