@@ -37,8 +37,8 @@ This project is licensed under the **MIT License**.
 
 If you have feedback, suggestions, or complaints, you can reach me through:
 
-- <strong>Email:</strong> <a href="mailto:sameer4uofficial@gmail.com" target="_blank">sameer4uofficial@gmail.com</a>
-- <strong>Blog:</strong> <a href="https://samrza.github.io/samblog/" target="_blank">https://samrza.github.io/samblog/</a>
-<strong>X Profile:</strong> <a href="https://x.com/samrza_" target="_blank">`https://x.com/samrza_`</a>
-
-
+<ul>
+  <li><strong>Email:</strong> <a href="mailto:sameer4uofficial@gmail.com" target="_blank">sameer4uofficial@gmail.com</a></li>
+  <li><strong>Blog:</strong> <a href="https://samrza.github.io/samblog/" target="_blank">https://samrza.github.io/samblog/</a></li>
+  <li><strong>X Profile:</strong> <a href="https://x.com/samrza_" target="_blank">https://x.com/samrza_</a></li>
+</ul>
