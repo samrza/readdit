@@ -39,4 +39,4 @@ If you have feedback, suggestions, or complaints, you can reach me through:
 
 - **Email:** [sameer4uofficial@gmail.com](mailto:sameer4uofficial@gmail.com)
 - **Blog:** [https://samrza.github.io/samblog/](https://samrza.github.io/samblog)
-- **X (Twitter) Profile:** [https://x.com/samrza](https://x.com/samrza)
+- **X (Twitter) Profile:** [https://x.com/samrza_](https://x.com/samrza_)
